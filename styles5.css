@@ -1,0 +1,40 @@
+*{
+    background-color: lightskyblue;
+}
+header {
+    background-color: black;
+    height: 200px;
+    position: absolute;
+     margin-top:35px;
+     width: 2000px;
+     top:1px;
+}
+.liam {
+    border: 20px solid white;
+    position: absolute;
+    top: 35px;
+    color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    border-left-color: white;
+}
+.blues{
+    position: absolute;
+    top:288px;
+    left:1018px;
+}
+.good{
+    color: white;
+    position: absolute;
+    top:280px;
+    left:30px;
+}
+.crunch{
+    position: absolute;
+    top:500px;
+    left:70px;
+    color: white;
+}
+.hamburger{
+    left:40px;
+    color: white;
+}

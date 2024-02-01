@@ -1,0 +1,46 @@
+*{
+    background-color: lightskyblue;
+}
+header {
+    background-color: black;
+    height: 200px;
+    position: absolute;
+     margin-top:35px;
+     width: 2000px;
+     top:1px;
+}
+
+.liam {
+    border: 20px solid white;
+    position: absolute;
+    top: 35px;
+    color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    border-left-color: white;
+}
+.vbucks {
+    position: relative;
+    top: 300px;
+    left: 40%;
+}
+.fish{
+    position: absolute;
+    top:250px;
+    left:170px;
+}
+.metro{
+    position: absolute;
+    top:250px;
+    left:950px;
+}
+.super{
+    position: absolute;
+    top:530px;
+    left: 8px;
+}
+.nice{
+    position: absolute;
+    top:540px;
+    left: 1220px;
+    
+}

@@ -1,0 +1,132 @@
+*{
+    background-color: lightskyblue;
+}
+.bucs {
+   text-align: center; 
+   border-color:white;
+   position: absolute;
+   top:85px;
+   left:750px;
+   color: white;
+}
+.sauce {
+    position: absolute;
+left:4px;
+top:250px;
+}
+.patriots {
+position: absolute;
+top:250px;
+left:390px;
+}
+.liam {
+    border: 20px solid white;
+    position: absolute;
+    top: 35px;
+    color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    border-left-color: white;
+}
+header {
+    background-color: black;
+    height: 200px;
+    position: absolute;
+     margin-top:35px;
+     width: 2000px;
+     top:1px;
+}
+.dog {
+position: absolute;
+top:170px;
+left:45px;
+color: white;
+}
+.jets{
+position: absolute;
+left:4px;
+top:450px;
+}
+.habs{
+    position: absolute;
+    left:4px;
+    top:670px;
+}
+.animal{
+    position: absolute;
+    left:390px;
+    top:460px;
+}
+.sharks{
+    position: absolute;
+    left:390px;
+    top:670px;
+    height: 200px;
+}
+.falcons{
+    position: absolute;
+    top:170px;
+    left:490px;
+    color: white;
+}
+.pasta{
+    position: absolute;
+    top:250px;
+    left:900px;
+}
+.bills{
+    position: absolute;
+    top:170px;
+    left: 1010px;
+    color: white;
+}
+.celtics{
+    position: absolute;
+    top:470px;
+    left:900px;
+}
+.bucks{
+    position: absolute;
+    top: 680px;
+    left:900px;
+    width: 300px;
+     height: 200px;
+}
+.dolphins{
+    position: absolute;
+    top:170px;
+    left:1500px;
+    color:white;
+}
+.bulls{
+    position: absolute;
+    top:250px;
+    left: 1320px;
+    width: 300px;
+    height: 200px;
+}
+.pelicans{
+position: absolute;
+ top:460px;
+ left:1320px;
+ height: 200px;
+ width: 300px;
+ 
+}
+.jazz{
+position: absolute;
+top:680px;
+left:1320px;
+height: 200px;
+width: 300px;
+}
+.liam {
+    border: 20px solid white;
+    position: absolute;
+    top: 35px;
+    color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    border-left-color: white;
+}
+
+
+

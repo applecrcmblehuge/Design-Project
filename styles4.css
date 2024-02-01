@@ -1,0 +1,86 @@
+*{
+    background-color: lightskyblue;
+}
+header {
+    background-color: black;
+    height: 212px;
+    position: absolute;
+     margin-top:25px;
+     width: 2000px;
+     top:0px;
+}
+.t{
+position: absolute;
+top: 270px;
+left: 1320px;
+height: 290px;
+}
+.s{
+position: absolute;
+top: 260px;
+left:370px;
+}
+.o{
+    position: absolute;
+    color: white;
+    top:130px;
+    left: 725px;
+}
+.q{
+position: absolute;
+top:265px;
+left:700px;
+}
+.v{
+    position: absolute;
+    top:260px;
+    left:20px;
+
+}
+.w{
+    position: absolute;
+    top:270px;
+    left:1020px;
+    height: 290px;
+    width: 280px;
+}
+.hello{
+    position:absolute;
+    top:200px;
+    left: 20px;
+    color: white;
+    border-color: black;
+
+}
+.liam {
+    border: 20px solid white;
+    position: absolute;
+    top: 35px;
+    color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    border-left-color: white;
+}
+.hi{
+    position: absolute;
+    top:200px;
+    left:375px;
+    color: white;
+}
+.yo{
+    position: absolute;
+    top:200px;
+    left:706px;
+    color: white;
+}
+.cereal{
+    position: absolute;
+    top: 200px;
+    left: 1030px;
+    color: white;
+}
+.fries{
+    position: absolute;
+    top:200px;
+    left:1327px;
+    color: white;
+}
